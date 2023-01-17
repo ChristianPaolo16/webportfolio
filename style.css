@@ -5,3 +5,8 @@
 #about {
 	background-color: #b9b9b9;
 }
+
+.project-card {
+	width: 100% !important;
+	max-width: 30%;
+}
